@@ -1,0 +1,410 @@
+.cardbox {
+  background-image: linear-gradient(lightpink, lightblue);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  display: grid;
+  align-items: center;
+  /* justify-conte: center; */
+  place-items: center;
+}
+
+.commo {
+  margin-top: 120px;
+}
+
+.solution {
+  font-size: 35px;
+  margin-bottom: 25px;
+}
+
+.control {
+  margin-top: 150px;
+}
+
+.tt {
+  color: rgb(219, 69, 187);
+}
+
+.touch {
+  margin-top: 150px;
+}
+
+.dis {
+  color: lightslategrey;
+}
+.explore {
+  background-color: rgb(219, 69, 187);
+}
+.ff {
+  position: absolute;
+  left: -10px;
+  top: 100px;
+}
+
+.bb {
+  position: absolute;
+  left: -10px;
+  top: 390px;
+}
+.cardbo {
+  background: linear-gradient(lightpink, lightblue);
+  background-size: cover;
+  height: 50vh;
+}
+.back {
+  background: linear-gradient(lightpink, lightblue);
+  height: 45vh;
+}
+.boxes {
+  position: absolute;
+  bottom: -100px;
+  width: auto;
+}
+
+.dd {
+  margin-top: 90px;
+}
+
+.strategy {
+  margin-top: 160px;
+}
+
+.read:hover .overlay {
+  height: 100%;
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+  overflow: hidden;
+  width: 100%;
+  height: 0%;
+  transition: 0.5s ease;
+}
+.headd {
+  margin-top: 90px;
+}
+
+/* @media screen and (max-width: 1440px) {
+  .cardbox {
+    height: 75vh;
+    margin-bottom: 200px;
+  }
+  .bulb {
+    margin-left: 80px;
+  }
+  .perfect {
+    margin-top: 120px;
+  }
+  .list {
+    display: flex;
+    margin-left: 16px;
+  }
+  .cards {
+    align-items: center;
+  }
+  .laptop-break {
+    display: none;
+  }
+  .bb {
+    position: absolute;
+    left: -10px;
+    top: 390px;
+  }
+  .cardbo {
+    margin-top: 200px;
+  }
+  .heading {
+    font-size: 45px;
+  }
+} */
+
+/* @media screen and (max-width: 991px) {
+  .sidebar {
+    background-color: rgb(26, 23, 23);
+    backdrop-filter: blur(10px);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .heading {
+    font-size: 105px;
+  }
+} */
+ .banner_heading{
+  font-size: 50px;
+  padding-top: 20px;
+ }
+
+@media  screen and (max-width: 320px) {
+.cardbox{
+  width: auto;
+  height: 650px !important;
+  text-align: center;
+}
+
+ .banner_heading{
+  font-size: 35px !important;
+  padding-top: 20px !important;
+ }
+ .card-image{
+  padding-top: 55px;
+ }
+
+ .our-feature{
+  margin-top: 150px;
+  
+ }
+ .text-info{
+  text-align: center;
+ }
+ .text-para{
+  text-align: center;
+ }
+ .first{
+  margin-top: 0;
+ }
+
+ .bulb{
+  height: auto;
+  width: 100%;
+ }
+ .perfect{
+  margin-top: 50px;
+ }
+
+ .pic{
+  margin: 0 !important;
+ }
+ .community{
+  display: none !important;
+ }
+ .cardbo{
+  height: 140vh !important;
+  width: auto;
+ }
+ .proud{
+  text-align: center !important;
+  margin-bottom: 50px;
+ }
+ .comple{
+  margin-bottom: 40px !important;
+ }
+ .we{
+  display: block !important;
+ }
+ .boxes{
+  display: block !important;
+  bottom: -950px;
+  left: 0px;
+  margin-left: 50px;
+  width: auto;
+ }
+ .in-box{
+  text-align: left !important;
+  margin-bottom: 25px;
+  width: auto;
+  padding-right: 20px !important;
+  padding-top: 30px !important;
+ }
+ .case-study{
+margin-top: 1000px !important;
+}
+.softc{
+margin-top: 0 !important;
+}
+.who{
+  margin-top:90px ;
+}
+.listl{
+  display: block !important;
+}
+.check{
+  margin-left: 0 !important;
+}
+.ourval{
+  display: block !important;
+}
+.contact{
+  margin-top: 50px;
+  font-size: larger !important;
+}
+.any{
+  font-size: xx-large;
+  margin-bottom: 20px;
+}
+.back{
+height: 70vh !important;
+}
+.loc{
+  margin-top: 30px;
+}
+
+.get{
+  margin-top: 20px !important;
+}
+}
+
+
+
+@media screen and (min-width:426px){
+.cardbox{
+height: 180vh;
+margin-bottom: 150px;
+}
+.banner_heading{
+  font-size: xx-large;
+  padding-top: 80px;
+}
+.dis{
+  text-align: center;
+}
+.community{
+    display:block;
+   }
+.last-img{
+display: none;
+}
+.network{
+  margin-bottom: 70px;
+}
+.softc{
+  margin-top: 0 !important;
+  }
+  .ware{
+    display: flex;
+    margin-top: 20px;
+  }
+  .bulb{
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 50px;
+  }
+  .cardbo{
+    height: 80vh;
+    margin-bottom: 500px;
+  }
+  .boxes{
+    bottom: -350px;
+    left: 0px;
+  }
+.comples{
+  display:flex;
+  margin-top: 40px;
+  justify-content: space-between;
+}
+.in-box{
+  
+}
+
+.last{
+  display: none;
+}
+.i2,.i1{
+  height: auto;
+  width: auto;
+}
+.who{
+  margin-top: 80px;
+}
+.listl{
+  display: block !important;
+}
+.check{
+  margin-left: 0 !important;
+}
+.ourval{
+  display: block !important;
+}
+.orv{
+  margin-bottom: 20px;
+}
+.bell{
+  text-align: center;
+  margin-bottom: 40px;
+}
+.any{
+  margin-bottom: 40px;
+}
+.light{
+  margin-left: 20px !important;
+}
+.back{
+  height: 70vh;
+}
+.loc{
+  margin-top: 50px;
+}
+.inp{
+  width: auto;
+}
+.er{
+  width: auto;
+}
+}
+
+@media screen and (min-width:769px) {
+  .cardbox{
+    height: 70vh;
+  }
+  .card-dib{
+    margin-top: 100px;
+  }
+  .banner_heading{
+    font-size: 40px;
+  }
+  .ware{
+    display: block;
+  }
+  .softc{
+    margin-top: 10px !important;
+  }
+  .bulb{
+    height: 550px;
+    width: 450px;
+  }
+  .bb {
+    top: 250px !important;
+  }
+  .cardbo{
+    height: 50vh !important;
+  }
+.boxes{
+  bottom: -350px;
+    left: 50px !important;
+}
+.in-box{
+  text-align: center !important;
+}
+ .iimg{
+  width: auto !important;
+  align-items: center;
+  margin-top: 50px;
+ }
+.i2{
+  width: 70%;
+}
+.i1{
+  width: 90%;
+}
+.shi{
+  margin: 0 !important;
+}
+.er{
+  margin-bottom: 10px !important;
+}
+.who{
+  margin-top: 0 !important;
+}
+.ourval{
+  display: flex !important;
+}
+.back{
+  height: 50vh;
+}
+}
